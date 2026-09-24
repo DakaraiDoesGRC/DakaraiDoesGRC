@@ -30,9 +30,9 @@ This profile holds working GRC artifacts, not tutorials. Each repo is a control 
 
 ## How I work
 
-**Two-repo model.** Real organizational work stays private. Public repos hold sanitized methodology only. Every public repo carries a `PROVENANCE.md` documenting what was generalized and why, because a reader deserves to know which parts came from a live environment and which are constructed.
+**Two-repo model.** Real organizational work stays private. Public repos hold sanitized methodology only. Every public repo includes a `PROVENANCE.md` that documents what was generalized and why, because readers deserve to know which parts came from a live environment and which are constructed.
 
-**Honest-gap rule.** Where a documented scenario describes maturity beyond conditions I've personally operated in, the text says so. Framing shifts from real-environment language to "Org with…" framing. Portfolio work that inflates its own provenance isn't evidence, it's marketing.
+**Honest-gap rule.** Where a documented scenario describes maturity beyond conditions I've personally operated in, the text says so. Framing shifts from real-environment language to "Org with…" framing. Portfolio work that inflates its own provenance isn't evidence; it's marketing.
 
 **Evidence over assertion.** Every control artifact names what would prove it operates, not just what it requires. If a control can't produce evidence, it isn't implemented.
 
@@ -44,11 +44,9 @@ This profile holds working GRC artifacts, not tutorials. Each repo is a control 
 
 Five years at National College Resources Foundation (Apr 2021 to Feb 2026), most recently as IT Support Specialist: endpoint support, account lifecycle, Microsoft 365 and Google Workspace administration, and a ticket intake system I designed and built from scratch.
 
-Currently in an open job search. IT support for immediate placement, GRC Analyst as the 12 to 18 month target.
-
 **Credentials:** Google Cybersecurity Certificate · Atlassian Cloud Fundamentals (2026) · CompTIA Security+ SY0-701 in progress · B.S. Entrepreneurship, CSU Dominguez Hills
 
-The certs prove I cleared a bar. The repos are the actual work.
+The certs show I met the bar. The repos are the actual work.
 
 ---
 
