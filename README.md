@@ -52,7 +52,7 @@ The certs show I met the bar. The repos are the actual work.
 
 ## Daily practice
 
-188 consecutive weekday control breakdowns and counting. Days 1 to 150 are indexed and published; the remainder are in the working archive.
+190 weekday control breakdowns and counting. Days 1 to 150 are indexed and published; the remainder are in the working archive.
 
 Each entry is a real control, the specific way it fails after implementation, the evidence that proves it operated, and its mapping across four frameworks.
 
