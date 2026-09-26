@@ -10,7 +10,7 @@ Los Angeles, CA · ISO 27001:2022 · NIST CSF 2.0 · CIS Controls v8.1 · SOC 2 
 
 **→ [GRC Logs Index](https://github.com/DakaraiDoesGRC/GRC-Logs-Index)**
 
-Days 1 to 150 of daily control breakdowns, indexed by control domain, framework reference, and failure mode. Every entry carries a verification status. Coverage is stated as a number rather than implied, and the two findings retracted during compilation are recorded rather than quietly removed.
+Days 1 to 200 of daily control breakdowns, indexed by control domain, framework reference, and failure mode. Every entry carries a verification status. Coverage is stated as a number rather than implied, and the two findings retracted during compilation are recorded rather than quietly removed.
 
 ---
 
@@ -49,7 +49,7 @@ The certs show I met the bar. The repos are the actual work.
 
 ## Daily practice
 
-190 consecutive weekday control breakdowns and counting. Days 1 to 150 are indexed and published; the remainder are in the working archive.
+200 consecutive weekday control breakdowns and counting. Days 1 to 150 are indexed and published; the remainder are in the working archive.
 
 Each entry is a real control, the specific way it fails after implementation, the evidence that proves it operated, and its mapping across four frameworks.
 
