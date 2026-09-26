@@ -21,10 +21,7 @@ This profile holds working GRC artifacts, not tutorials. Each repo is a control 
 | Repo | What it is | Frameworks |
 |---|---|---|
 | [GRC-Logs-Index](https://github.com/DakaraiDoesGRC/GRC-Logs-Index) | Searchable archive of 150 control breakdowns with failure modes and evidence standards | ISO 27001:2022 · SOC 2 TSC · NIST CSF 2.0 · CIS v8.1 |
-| [IT-Inventory-Audit-Template](https://github.com/DakaraiDoesGRC/IT-Inventory-Audit-Template) | Repeatable inventory audit method: scope, verification, discrepancy workflow, evidence naming | ISO 27001 A.5.9 · CIS Control 1 |
-| [grc-vendor-risk-intake-mini-pack](https://github.com/DakaraiDoesGRC/grc-vendor-risk-intake-mini-pack) | Tiered third-party risk intake, scoring model, evidence request, decision log | ISO 27001 A.5.19 · SOC 2 CC9.2 |
-| [Hands-On-GRC-Starter-Checklist](https://github.com/DakaraiDoesGRC/Hands-On-GRC-Starter-Checklist-) | End-to-end starter kit: environment profile through risk decisions | ISO 27001 6.1.2 · NIST CSF ID.RA |
-| [grc-daily-logs-evidence-pack](https://github.com/DakaraiDoesGRC/grc-daily-logs-evidence-pack) | Closed-loop case files: risk, control, evidence, outcome | ISO 27001 A.5.35 · SOC 2 CC4.1 |
+
 
 ---
 
