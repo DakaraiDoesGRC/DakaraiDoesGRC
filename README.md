@@ -20,7 +20,7 @@ This profile holds working GRC artifacts, not tutorials. Each repo is a control 
 
 | Repo | What it is | Frameworks |
 |---|---|---|
-| [GRC-Logs-Index](https://github.com/DakaraiDoesGRC/GRC-Logs-Index) | Searchable archive of 150 control breakdowns with failure modes and evidence standards | ISO 27001:2022 · SOC 2 TSC · NIST CSF 2.0 · CIS v8.1 |
+| [GRC-Logs-Index](https://github.com/DakaraiDoesGRC/GRC-Logs-Index) | Searchable archive of 200 control breakdowns with failure modes and evidence standards | ISO 27001:2022 · SOC 2 TSC · NIST CSF 2.0 · CIS v8.1 |
 
 
 ---
